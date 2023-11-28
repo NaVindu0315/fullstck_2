@@ -1,3 +1,8 @@
 window.onload = function(){
-    alert("hello");
+    
+
+    var x= 5;
+    var y = x*2;
+    alert("hello" +y);
+
 }
